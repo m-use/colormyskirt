@@ -1,2 +1,2 @@
 # colormyskirt
-Project intended for Google IO
+This project intended for Kate Pond at Google I/O 2017. Attendents will be able to go www.colormyskirt.com and choose a color. The LED lights on Kate's skirt will change based on the color chosen.
